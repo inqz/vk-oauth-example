@@ -2,7 +2,7 @@ import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-SECRET_KEY = '3--olrgoa-w2@ii3fxnhp@81@e=u(*euup233#6i^tlf7^(944'
+SECRET_KEY = ''
 
 DEBUG = True
 
